@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="080b46f1-080c-4fd3-97de-a10cb82b4d5c" name="Default Changelist" comment="" />
+    <list default="true" id="92934170-a037-46d1-82f6-adfb5e283ecd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1sg6R9z2CwbnXtEDqSJ1Ux4o8AS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1t3JLksXi80vDeRIflwrXWDETLZ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,15 +25,49 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RunManager">
+    <configuration name="RunBasicActor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.legoosa.tutorial.run.RunBasicActor" />
+      <module name="basic-actor-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.legoosa.tutorial.run.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunBasicActor" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="080b46f1-080c-4fd3-97de-a10cb82b4d5c" name="Default Changelist" comment="" />
-      <created>1621281874644</created>
+      <changelist id="92934170-a037-46d1-82f6-adfb5e283ecd" name="Default Changelist" comment="" />
+      <created>1621991786290</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1621281874644</updated>
-      <workItem from="1621281876137" duration="62000" />
+      <updated>1621991786290</updated>
+      <workItem from="1621991787750" duration="3514000" />
+      <workItem from="1622066780369" duration="2451000" />
     </task>
     <servers />
   </component>
