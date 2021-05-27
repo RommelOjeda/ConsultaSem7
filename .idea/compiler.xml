@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="basic-actor-system" />
+        <module name="actors-vs-threads" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="actors-vs-threads" target="1.5" />
       <module name="basic-actor-system" target="8" />
     </bytecodeTargetLevel>
   </component>
