@@ -3,7 +3,7 @@
 
 2.Implementar un ejemplo en ambos modelos, que muestre la diferencia
 
-Video Explicativo: https://www.youtube.com/watch?v=WCSYUiaCLkU
+Video: https://www.youtube.com/watch?v=WCSYUiaCLkU
 
 Integrantes:
 
